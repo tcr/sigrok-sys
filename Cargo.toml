@@ -1,0 +1,9 @@
+[package]
+name = "sigrok-sys"
+version = "0.1.0"
+authors = ["Tim Ryan <id@timryan.org>"]
+description = "Bindings for libsigrok"
+license = "GPL-3.0"
+
+[dependencies]
+glib-sys = "0.3.0"
